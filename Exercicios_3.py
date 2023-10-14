@@ -187,4 +187,4 @@ def ALL():
 # Execução dos programas
 # para executar um programa é necessário somente digitar o nome da função    
 # Exemplo:
-Exercício_1()
+ALL()
